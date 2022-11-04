@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Copa" title="Copa" src="images/header.png" />
+    <img alt="Copa" title="Copa" src="./assets/logo.svg" />
 </h1>
 
 <p align="center">
